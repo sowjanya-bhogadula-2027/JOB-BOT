@@ -1,0 +1,6 @@
+BotProfile/
+venv/
+__pycache__/
+*.log
+WABotProfile/
+/LakshmiSowjanyaResume.docx
